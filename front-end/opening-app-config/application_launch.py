@@ -28,7 +28,6 @@ def openFirefoxWSL(url):
 
 
 
-
 # --------------- GENERAL ---------------
 
 def openProgram(path):
